@@ -1,0 +1,20 @@
+#navbar {
+    position: fixed;
+    top: 0;
+    background-color: green;
+    width: 600px;
+}
+
+body {
+    padding-top: 100px;
+}
+
+#contact {
+    padding-top: 600px;
+}
+
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
